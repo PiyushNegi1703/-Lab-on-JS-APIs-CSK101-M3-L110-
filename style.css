@@ -1,0 +1,17 @@
+#articles {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5vh;
+}
+
+#article {
+  box-shadow: 0 0 7px black;
+  margin: 7.5vh;
+  text-align: center;
+  width: 23%;
+  padding: 1vh;
+}
+
+#article img {
+  width: 60%;
+}
